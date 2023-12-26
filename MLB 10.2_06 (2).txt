@@ -1,0 +1,16 @@
+One drive link: https://mysliit-my.sharepoint.com/:f:/g/personal/it21388934_my_sliit_lk/Eo3i0zxQAxNIvp375xWfW5cBGDs9jwCdIPOWVqRJ8lLOGQ?e=vC0nx4
+
+
+
+MLB_10.2_06
+10.2 Y1, S2 2022
+Online recipe management system
+
+
+
+	IT21388934	Siriwardhana S.M.R.R.	It21388934@my.slitt.lk          0703961965                Home page(Data retrieving in to home and search), Buyer Dashboard (Data retrieving in dashbboard), Allergen checker
+	IT21388002	Hasamal M.A.P.		It21388002@my.sliit.lk 		0782498019		  Publish Recipe page(create recipe, paymenaction ), Payment Page, Trending Recipe(Data retrieving trending recipe)
+	IT21388552	Karunasena D.M.P.S.M	It21388552@my.sliit.lk		77 886 9302		  Registration(register action), Publisher Dashboard(delete recipe), About Us
+	IT21386268	Jayarathna P.G.L.N	It21386268@my.sliit.lk		77 035 1657		  Admin Dashboard, Become publisher page(convert publisher, linked account action)login check
+	IT21387012	P.Yasith Hansaka	It21387012@my.sliit.lk		76 666 0760		  Download, Category (Data retrieving in to catoagory)
+
